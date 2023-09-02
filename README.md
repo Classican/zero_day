@@ -1,4 +1,4 @@
-#Vagrant - or - how to code in your local computer
+#Vagrant - or - how to code in your local computer \n
 ##Tasks:
 ###0. Create and setup your Git and GitHub account
 You will need Git for this project, you might have to install it on your computer if it’s not done yet.
